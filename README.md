@@ -1,2 +1,2 @@
 # Morphle_labs
-added output images
+![Output](morphle_output.png)
